@@ -20,16 +20,16 @@ Columns in datasets:
 
 ride_id : unique ride id per every trip.
 
-started_at : has data about date and time when the rider started the ride
+started_at : has data about date and time when the rider started the ride.
 
-ended_at : has data about date and time when the rider ended the ride
+ended_at : has data about date and time when the rider ended the ride.
 
-start_station_name and start_station_id : station name and its id where the rider started his ride
+start_station_name and start_station_id : station name and its id where the rider started his ride.
 
-end_station_name and end_station_id : station name and its id where the rider ended his ride
+end_station_name and end_station_id : station name and its id where the rider ended his ride.
 
-start_lat and start_lng : latitude and longitude of place where the rider started his ride
+start_lat and start_lng : latitude and longitude of place where the rider started his ride.
 
-end_lat and end_lng : latitude and longitude of place where the rider ended his ride
+end_lat and end_lng : latitude and longitude of place where the rider ended his ride.
 
-member_casual : has data abput type of rider whether casual or member
+member_casual : has data about type of rider whether casual or member.
